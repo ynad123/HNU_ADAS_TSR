@@ -6,3 +6,4 @@ scipy
 jupyter
 scikit-learn
 scikit-image
+opencv
