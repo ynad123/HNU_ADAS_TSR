@@ -1,4 +1,8 @@
-numpy==1.16.*
-matplotlib==3.*
+numpy
+matplotlib
 tensorflow
 pandas
+scipy
+jupyter
+scikit-learn
+scikit-image
