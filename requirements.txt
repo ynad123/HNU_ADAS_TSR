@@ -7,3 +7,5 @@ jupyter
 scikit-learn
 scikit-image
 opencv-python
+keras
+seaborn
